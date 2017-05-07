@@ -1,0 +1,73 @@
+body{
+	margin: 0 auto;
+	padding: 0;
+}
+.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 50px;
+    font-size: 20px;
+    line-height: 20px;
+    color: red;
+}
+
+.slider{
+	background: url(header.jpg);
+	height: 100vh;
+    text-align: center;
+    color: white;
+    background-size: cover;
+    width: 100%;
+    padding-top: 200px;
+}
+
+.slider h1{
+	text-transform: uppercase;
+}
+.slider2 {
+	 background: coral;
+	 height: 50vh;
+	 text-align: center;
+	 color: white;
+	 padding-top: 30px;
+}
+
+.service i {
+	font-size: 50px;
+	color: coral;
+	margin-left: 10px;
+}
+.service {
+	   padding-left: 15px;
+
+}
+.download{
+	background-color:#222;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	height: 300px
+}
+
+.download h1 {
+	padding-top: 100px;
+}
+#ig{
+	
+width: 32%;
+}
+
+.btn{
+	border-radius: 100px;
+	font-size: 13px;
+}
+.fotter h1{
+    padding-left: 100px;
+}
+
+
+
